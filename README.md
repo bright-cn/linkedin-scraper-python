@@ -1,5 +1,3 @@
-[![使用 Amazon 爬虫 API 抓取亚马逊数据：商品、评论、卖家和搜索结果。可按 ASIN、关键词或 UPC 采集或发现数据。免费开始使用。](.github/banner.png)](https://www.bright.cn/products/web-scraper/amazon?utm_source=github)
-
 # amazon-scraper-node
 
 [![运行状态检查](https://github.com/bright-cn/amazon-scraper-node/actions/workflows/live.yml/badge.svg)](https://github.com/bright-cn/amazon-scraper-node/actions/workflows/live.yml)
